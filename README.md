@@ -8,5 +8,5 @@ A simple Flood-It! game implemented in Racket language.
 Run the source code with
 
 ```
-gracket hebi.rkt
+gracket flood-it.rkt
 ```
